@@ -1,0 +1,12 @@
+---
+layout: archive
+---
+<h1>Pipes, Vaporizers, and More!</h1>
+
+This will be some intro text about products.
+
+<h3 class="archive__subtitle">Medical use</h3>
+
+{% for post in site.categories.products %}
+  {% include archive-single.html %}
+{% endfor %}
