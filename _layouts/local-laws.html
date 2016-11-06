@@ -1,0 +1,13 @@
+---
+layout: archive
+---
+<h1>Legal status</h1>
+
+This will be a larger descriptive set of text giving the current state of marijuana legislation for a given state. Below will be a series of posts that have the latest news/updates on marijuana legislation.
+
+
+<h3 class="archive__subtitle">Latest State Law News</h3>
+
+{% for post in site.categories.local-law %}
+  {% include archive-single.html %}
+{% endfor %}
