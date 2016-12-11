@@ -2,15 +2,18 @@
 title:  "DaVinci Vaporizer"
 date:   2016-11-06 07:15:31 -0600
 categories: Vaporizers
+author_profile: false
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
+  - title: "Sold at:"
+    image: https://vapeoutlet.co/wp-content/uploads/2015/03/vape-outlet.jpg
     image_alt: "image"
-    text: "Some text here."
+    text: "<a href='https://vapeoutlet.co/brands/davinci/'>Vape Outlet</a>"
   - title: "Another Title"
     text: "More text here."
 ---
 The DaVinci vaporizer is awesome!
+
+<a href="#"><img src="https://vapeoutlet.co/wp-content/uploads/2016/10/davinci-iq-vaporizer.jpg" /></a>
 
 {% highlight ruby %}
 def print_hi(name)

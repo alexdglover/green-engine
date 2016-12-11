@@ -15,7 +15,7 @@
     @include container;
     @include clearfix;
 
-    background-color: dark-green;
+    background-color: darkgreen;
 
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
@@ -26,10 +26,12 @@
 
     nav {
       z-index: 10;
+      background-color: darkgreen;
     }
 
     a {
       text-decoration: none;
+      color: black;
     }
   }
 }
