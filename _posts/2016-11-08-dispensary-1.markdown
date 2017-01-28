@@ -1,8 +1,8 @@
 ---
-#layout: post
 title:  "Dispensary 1"
 date:   2016-11-06 07:15:31 -0600
 categories: dispensaries
+author_profile: false
 ---
 This is a really cool dispensary, yadda yadda yadda
 
