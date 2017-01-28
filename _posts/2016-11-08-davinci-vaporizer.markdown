@@ -3,7 +3,9 @@ title:  "DaVinci Vaporizer"
 date:   2016-11-06 07:15:31 -0600
 categories: Vaporizers
 header:
-  teaser: http://placehold.it/350x250
+  teaser: https://vapeoutlet.co/wp-content/uploads/2016/10/davinci-iq-vaporizer.jpg
+image:
+  feature: https://vapeoutlet.co/wp-content/uploads/2016/10/davinci-iq-vaporizer.jpg
 author_profile: false
 sidebar:
   - title: "Sold at:"
