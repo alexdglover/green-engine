@@ -2,6 +2,8 @@
 title:  "DaVinci Vaporizer"
 date:   2016-11-06 07:15:31 -0600
 categories: Vaporizers
+header:
+  teaser: http://placehold.it/350x250
 author_profile: false
 sidebar:
   - title: "Sold at:"
